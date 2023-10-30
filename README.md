@@ -1,4 +1,4 @@
-# WhatsApp Web Spammer
+# WHATSAPP WEB SPAMMER
 
 Este script de Python te permite enviar mensajes y/o imágenes a múltiples contactos en WhatsApp Web de forma automática. Puedes usarlo para enviar mensajes o imágenes a una lista de contactos predefinida.
 
@@ -7,6 +7,10 @@ Este script de Python te permite enviar mensajes y/o imágenes a múltiples cont
 # Requisitos previos
 
 Asegúrate de tener Python 3.x instalado en tu sistema.
+Tener instalador selenium 
+
+        pip install selenium
+    
 Descarga e instala el navegador Google Chrome si aún no lo tienes.
 
 # Configuración
