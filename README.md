@@ -6,8 +6,8 @@ Este script de Python te permite enviar mensajes y/o imágenes a múltiples cont
 
 # Requisitos previos
 
-    Asegúrate de tener Python 3.x instalado en tu sistema.
-    Descarga e instala el navegador Google Chrome si aún no lo tienes.
+Asegúrate de tener Python 3.x instalado en tu sistema.
+Descarga e instala el navegador Google Chrome si aún no lo tienes.
 
 # Configuración
 
@@ -27,7 +27,7 @@ Guarda los cambios en el archivo Whatweb.py.
 1.- Abre una terminal en la ubicación donde se encuentra el script script.py.
 2.- Ejecuta el script utilizando el siguiente comando:
 
-    python script.py
+    python Whatweb.py
 
 Sigue las instrucciones en la terminal para escanear el código QR de WhatsApp Web manualmente. Esto es necesario para iniciar la sesión de WhatsApp Web.
 
