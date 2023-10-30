@@ -35,6 +35,8 @@ Guarda los cambios en el archivo Whatweb.py.
 
 Sigue las instrucciones en la terminal para escanear el código QR de WhatsApp Web manualmente. Esto es necesario para iniciar la sesión de WhatsApp Web.
 
+si envias una imagen debes copiar la imagen con ctrl + C para que el script lo copie usando Ctrl + V 
+
 El script comenzará a enviar mensajes a los contactos en la lista. Verás el progreso en la terminal, incluyendo los contactos a los que se envían mensajes con éxito y los errores, si los hay.
 
 Una vez que se complete el envío de mensajes, el script mostrará un mensaje de éxito.
