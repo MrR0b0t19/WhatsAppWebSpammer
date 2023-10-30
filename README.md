@@ -18,11 +18,16 @@ Descarga e instala el navegador Google Chrome si aún no lo tienes.
 Clona o descarga este repositorio en tu sistema.
 
 Abre el archivo Whatweb.py en un editor de texto y modifica los siguientes parámetros según tus necesidades:
-        contactos: Agrega los nombres de los contactos a los que deseas enviar mensajes.
-        mensaje: Especifica el mensaje que deseas enviar.
-        archivo_errores y archivo_enviados: Estos archivos se utilizan para rastrear los contactos a los que se enviaron mensajes con éxito y los errores encontrados.
-        delay_entre_mensajes: Tiempo de espera entre el envío de mensajes en segundos.
-        ruta_imagen (opcional): Si deseas enviar una imagen junto con el mensaje, proporciona la ruta de la imagen.
+        
+contactos: Agrega los nombres de los contactos a los que deseas enviar mensajes.
+
+mensaje: Especifica el mensaje que deseas enviar.
+
+archivo_errores y archivo_enviados: Estos archivos se utilizan para rastrear los contactos a los que se enviaron mensajes con éxito y los errores encontrados.
+
+delay_entre_mensajes: Tiempo de espera entre el envío de mensajes en segundos.
+
+ruta_imagen (opcional): Si deseas enviar una imagen junto con el mensaje, proporciona la ruta de la imagen.
 
 Guarda los cambios en el archivo Whatweb.py.
 
@@ -46,6 +51,7 @@ Puedes verificar los archivos enviados.txt y no_enviados.txt para obtener una li
 # Notas
 
 Asegúrate de que el número de contactos en la lista coincida con la cantidad de contactos a los que deseas enviar mensajes.
+
 Asegúrate de que el navegador Google Chrome esté instalado y configurado correctamente.
 
 # Advertencia
