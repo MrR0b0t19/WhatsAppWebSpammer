@@ -27,8 +27,6 @@ archivo_errores y archivo_enviados: Estos archivos se utilizan para rastrear los
 
 delay_entre_mensajes: Tiempo de espera entre el envío de mensajes en segundos.
 
-ruta_imagen (opcional): Si deseas enviar una imagen junto con el mensaje, proporciona la ruta de la imagen.
-
 Guarda los cambios en el archivo Whatweb.py.
 
 # Uso
