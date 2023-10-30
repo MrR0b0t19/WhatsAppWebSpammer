@@ -1,7 +1,3 @@
-# EnviomasivoWP
-Script creado en python para envio masivos de whatsapp para SPAM
-
-
 # WhatsApp Web Spammer
 
 Este script de Python te permite enviar mensajes y/o imágenes a múltiples contactos en WhatsApp Web de forma automática. Puedes usarlo para enviar mensajes o imágenes a una lista de contactos predefinida.
